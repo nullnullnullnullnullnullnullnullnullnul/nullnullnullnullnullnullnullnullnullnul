@@ -5,5 +5,5 @@
 </picture>
 
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=nullnullnullnullnullnullnullnullnullnul)
+![nullnullnullnullnullnullnullnullnullnul](https://count.getloli.com/@nullnullnullnullnullnullnullnullnullnul)
 
