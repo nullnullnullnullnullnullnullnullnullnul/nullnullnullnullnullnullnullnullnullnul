@@ -33,4 +33,3 @@ jobs:
           publish_dir: ./dist
           publish_branch: output
           commit_message: "Update"
-          external_repository: nullnullnullnullnullnullnullnullnullnul/nullnullnullnullnullnullnullnullnullnul
